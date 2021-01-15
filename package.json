@@ -1,5 +1,5 @@
 {
-  "name": "mapbox-cluster-gh-pages-test",
+  "name": "lebanon-arms-map-en",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -39,5 +39,5 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://davidbjourno.github.io/mapbox-cluster-gh-pages-test"
+  "homepage": "https://amnesty-crisis-evidence-lab.github.io/lebanon-arms-map-en"
 }
